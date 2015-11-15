@@ -1,0 +1,29 @@
+Command line:
+   Integradorv2_isim_par.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  34606
+
+Tue Nov 10 17:00:25 2015
+
+
+ Elaboration Time: 0.84 sec
+
+ Current Memory Usage: 153.928 Meg
+
+ Total Signals          : 8751
+ Total Nets             : 5869
+ Total Signal Drivers   : 5873
+ Total Blocks           : 1151
+ Total Primitive Blocks : 808
+ Total Processes        : 7536
+ Total Traceable Variables  : 3005
+ Total Scalar Nets and Variables : 89831
+Total Line Count : 8213
+
+ Total Simulation Time: 1.73 sec
+
+ Current Memory Usage: 164.794 Meg
+
+Tue Nov 10 17:02:52 2015
+

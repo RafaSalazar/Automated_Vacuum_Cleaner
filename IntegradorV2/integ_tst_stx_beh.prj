@@ -1,0 +1,7 @@
+verilog isim_temp "rsa.v"
+verilog isim_temp "comp.v"
+verilog isim_temp "adder.v"
+verilog isim_temp "booth_mult.v"
+verilog isim_temp "Integradorv2.v"
+verilog isim_temp "integ_tst.v"
+verilog isim_temp "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

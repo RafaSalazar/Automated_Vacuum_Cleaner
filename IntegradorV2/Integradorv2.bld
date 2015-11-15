@@ -1,0 +1,36 @@
+Release 14.7 ngdbuild P.20131013 (lin)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+Command Line: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin/unwrapped/ngdbuild -intstyle
+ise -dd _ngo -nt timestamp -i -p xc6slx9-csg324-3 Integradorv2.ngc
+Integradorv2.ngd
+
+Reading NGO file "/home/rafa/Descargas/Digital/IntegradorV2/Integradorv2.ngc"
+...
+Gathering constraint information from source properties...
+Done.
+
+Resolving constraint associations...
+Checking Constraint Associations...
+Done...
+
+Checking expanded design ...
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+NGDBUILD Design Results Summary:
+  Number of errors:     0
+  Number of warnings:   0
+
+Total memory usage is 108912 kilobytes
+
+Writing NGD file "Integradorv2.ngd" ...
+Total REAL time to NGDBUILD completion:  27 sec
+Total CPU time to NGDBUILD completion:   22 sec
+
+Writing NGDBUILD log file "Integradorv2.bld"...

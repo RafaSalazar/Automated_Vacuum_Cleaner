@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "/home/rafa/Descargas/Digital/IntegradorV2/inter_tst_isim_beh.exe" -prj "/home/rafa/Descargas/Digital/IntegradorV2/inter_tst_beh.prj" "work.inter_tst" "work.glbl" 

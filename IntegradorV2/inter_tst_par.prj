@@ -1,0 +1,2 @@
+verilog work "netgen/par/Integradorv2_timesim.v"
+verilog work "inter_tst.v"

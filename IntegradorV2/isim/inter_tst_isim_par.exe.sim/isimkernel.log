@@ -1,0 +1,29 @@
+Command line:
+   inter_tst_isim_par.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  39254
+
+Tue Nov 10 17:04:23 2015
+
+
+ Elaboration Time: 0.81 sec
+
+ Current Memory Usage: 153.94 Meg
+
+ Total Signals          : 8753
+ Total Nets             : 5869
+ Total Signal Drivers   : 5878
+ Total Blocks           : 1152
+ Total Primitive Blocks : 808
+ Total Processes        : 7543
+ Total Traceable Variables  : 3010
+ Total Scalar Nets and Variables : 89866
+Total Line Count : 8223
+
+ Total Simulation Time: 4.95 sec
+
+ Current Memory Usage: 164.807 Meg
+
+Tue Nov 10 17:06:08 2015
+
